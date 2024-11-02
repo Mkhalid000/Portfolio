@@ -459,14 +459,14 @@ body {
 #intro-div h1 {
     word-spacing: 0.2vw;
     letter-spacing: 0.01vw;
-    font-size: 4.4vw;
+    font-size: 3vw;
     line-height: 6.3vw;
     font-family: pp;
 }
 #intro-div h1 span{
     word-spacing: 0.2vw;
     letter-spacing: 0.01vw;
-    font-size: 4.4vw;
+    font-size: 3.5vw;
     line-height: 6.3vw;
     font-family: right;
     color: #38cdfa;
@@ -1068,8 +1068,8 @@ body {
 /* -------page5--------------- */
 
 .page5 {
-    width: 100%;
-    height: 100vh;
+    /* width: 100%; */
+    height: fit-content;
     padding: 0 2vmax;
     margin-top: 0vh;
     background-color: #393939;
